@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-test
+Hi, my name is Changlin Liu. I'm a CS Ph.D. student at RISE-lab of Case Western Reserve University. My research fields include Software Engineering, Software Testing, Mobile Software, System Security and Threat Intelligence.
