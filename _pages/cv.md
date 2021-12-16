@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
+* Ph.D in Computer Science, Case Western Reserve University, present
+* M.S. in Computer Science, Case Western Reserve University, 2019
 * B.S. in Biological Sciences, University of Science and Technology of China, 2016
   * Minor in Computer Science
-* M.S. in Computer Science, Case Western Reserve University, 2019
-* Ph.D in Computer Science, Case Western Reserve University, present
 
 Work experience
 ======
@@ -26,9 +26,9 @@ Work experience
   
 * **iFlyteck, Hefei, Anhui, China** \
   **Algorithm Engineer Intern,  04/2017-07/2017**
-  * Developed data processing pipeline using Python Pandas and PySpark.
-  * Implemented ML models, including SVM, XGBoost, and Random Forest, in order to predict user loads and provide suggestions to China Mobile’s Hefei Branch.
-  * Analyzed stock data, perfromed featuren engineering and implemented LSTM model to forecast stock price trends.
+  * Developed data ingestion and processing pipeline using Python, Spark and mySQL.
+  * Implemented machine learning models to predict 4G base station load state in the city and provide suggestions to the local mobile carrier.
+  * Researched and inplemented time series prediction and related feature engineering; adopted to high freqency stock market data
 
 <!-- Skills
 ======
