@@ -21,14 +21,14 @@ Work experience
 * **Netscope, Santa Clara, CA** \
   **Security Research Engineer Intern, 05/2019-12/2019**
   * Mainly worked on User Behavior Analytics.
-  * Built a prototype system to query daily user activities, a graph model to represent and visualize user behaviors, and developed algorithms to detect and rank anomalous user behaviors.
+  * Built a prototype system to query daily user activities, a graphical model to represent and visualize user behaviors, and developed algorithms to detect and rank anomalous user behaviors.
   * Also involved in Secure Web Gateway and Threat Intelligence DB development. Developed and maintained data ingestion pipeline.
   
 * **iFlyteck, Hefei, Anhui, China** \
   **Algorithm Engineer Intern,  04/2017-07/2017**
-  * Developed data ingestion and processing pipeline using Python, Spark and mySQL.
+  * Developed and maintained ETL pipeline for stream data.
   * Implemented machine learning models to predict 4G base station load state in the city and provide suggestions to the local mobile carrier.
-  * Researched and inplemented time series prediction and related feature engineering; adopted to high freqency stock market data
+  * Studied and implemented time series prediction and related feature engineering; adopted to high frequency stock market data.
 
 <!-- Skills
 ======
